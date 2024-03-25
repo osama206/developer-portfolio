@@ -39,6 +39,6 @@ You can view a live demo of the Developer Portfolio hosted on GitHub Pages [here
 
 ## Credits
 - [Font Awesome](https://fontawesome.com/) - Utilized for social media icons in the footer section of the portfolio website. These icons enhance the visual appeal and provide links to the developer's social media profiles.
-- [Houdini Worklet](https://developer.mozilla.org/en-US/docs/Web/CSS/Houdini) - Integrated to create a background effect in the contact section of the portfolio website. This worklet adds an engaging visual element, enhancing the overall user experience.
+- [Houdini Worklet](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Houdini) - Integrated to create a background effect in the contact section of the portfolio website. This worklet adds an engaging visual element, enhancing the overall user experience.
 
 Feel free to contribute to the project by submitting pull requests or opening issues for any bugs or feature requests. Happy coding!
